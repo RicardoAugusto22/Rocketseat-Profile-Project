@@ -11,14 +11,14 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos escuros e camisa preta, barba e fundo roxo e azul."
+      "Foto de Ricardo Augusto sorrindo, usando óculos e camisa rosa, de  barba com um lago por trás dele."
     )
   } else {
     // se estiver no dark mode, manter a imagem normal
     img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo."
+      "Foto de Ricardo Augusto sorrindo, usando óculos e camisa rosa, de  barba com um lago por trás dele."
     )
   }
 }
