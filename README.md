@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Fiz essa pagina seguindo o programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, achei ele um otimo, simples e curto crash course que me ajudou a pegar pratica com os basicos de HTML, CSS e Javascript e aprender a usar a plataforma Figma, recomendo bastante para iniciantes, segue os links abaixo. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
